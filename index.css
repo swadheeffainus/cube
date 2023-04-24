@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 .icons{
     margin-top: 30px;
     margin-left: 30px;
@@ -48,16 +51,18 @@
   margin-left: 50px;
  }
  .hi{
-  width: 600px;
-  height: 500px;
+  /* width: 600px;
+  height: 500px; */
  }
  .h6{
-  width: 500px;
-  height: 400px;
+  max-width: 100%;
+
+  /* width: 500px;
+  height: 400px; */
  }
  .h7{
-  margin-top: -415px;
-  margin-left: 700px;
+  /* margin-top: -415px;
+  margin-left: 700px; */
  }
  /* Style all font awesome icons */
 .fa {
